@@ -1,0 +1,14 @@
+# ninja log v5
+2	23294	1691910904	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/pointops_api.o	95fcf06e94acec07
+1	26572	1691910907	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda_kernel.o	e97e20f9087ef6ef
+1	26876	1691910908	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda_kernel.o	9cc9fa3c437ab817
+0	26972	1691910908	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda_kernel.o	dd9c044d88ae632b
+2	26979	1691910908	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery/knnquery_cuda_kernel.o	c6654d946ad5de0d
+3	27106	1691910908	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda_kernel.o	f0a683fac99d9d67
+2	27987	1691910909	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda_kernel.o	b118c43238edd376
+13	9642	1691911092	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda.o	701dd4cd53264a42
+16	8745	1691911109	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda.o	25c716342e519d7d
+14	9535	1691911127	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda.o	b9c9be41dfe23d50
+14	8563	1691911142	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda.o	cb5e71aeaff70774
+15	8196	1691911230	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda.o	a92b59e46de19cd3
+14	8533	1691911264	/home/stud/ding/PC_FC/point-transformer/lib/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery/knnquery_cuda.o	355ef255af6b8ec5

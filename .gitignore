@@ -1,0 +1,7 @@
+./vscode/
+kittiraw/
+.gitmodules
+*.yml
+./logs/
+./oths/
+./checkpoints/
